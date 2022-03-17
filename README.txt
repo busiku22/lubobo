@@ -1,13 +1,13 @@
 
 TITLE: 
-Church - 100% Fully Responsive Free HTML5 Bootstrap Template
+Church Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Busiku Kapikanya
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
+Twitter: https://twitter.com/Busikukapikany2
+Facebook: https://web.facebook.com/busiku.kapikanya/
 
 
 CREDITS:
